@@ -12,4 +12,4 @@ Apply code | Tên của bạn | Link tới cv
 
 3. Tạo pull request
 
-4. Chờ đợi 1 vài phút, 5 phút trở lên, khi thấy pull request của bạn đã đc merge, vào link http://xxx để check kết quả
+4. Chờ đợi 1 vài phút, 5 phút trở lên, khi thấy pull request của bạn đã đc merge, vào link http://labs.nampnq.cf/results để check kết quả
