@@ -4,7 +4,7 @@ Rất vui vì bạn đã đến được đây.
 
 Các bước tiếp theo của bạn:
 
-1. Upload CV lên google drive, chọn chia sẽ với mail nampnq<at>gmail.com hoặc nam.pham<at>filestring.com
+1. Upload CV lên google drive, chọn chia sẽ với mail `nampnq<at>gmail.com` hoặc `nam.pham<at>filestring.com`
 
 2. Sửa file cv.txt với nội dung như sau:
 
